@@ -35,7 +35,7 @@ public class IloveGqt {
 					System.out.print("  ");
 				}
 			}
-			System.out.print("          ");
+			System.out.print("           ");
 			//G
 			for(int j=0;j<=n-1;j++) {
 				if(  (j==0 && i!=0 && i!=(n-1))
